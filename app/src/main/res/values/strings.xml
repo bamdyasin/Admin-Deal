@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Admin Deal</string>
-    <string name="your_app">YourApp</string>
-    <string name="tage_line">TagLine</string>
+    <string name="your_app">WE MAINTAINS</string>
+    <string name="tage_line">100% SAFETY</string>
     <string name="welcome">Welcome Brother</string>
+    <string name="email">Enter Your Email</string>
+    <string name="password">Enter Your Password</string>
+    <string name="login">Log In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_account">Create Account</string>
 </resources>

@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/Admin-Deal/app/src/main/res/drawable/header_shape.xml" value="0.174" />
+        <entry key="..\:/Android/Admin-Deal/app/src/main/res/drawable/primary_button_background.xml" value="0.1285" />
+        <entry key="..\:/Android/Admin-Deal/app/src/main/res/layout/activity_login.xml" value="0.3546875" />
+        <entry key="..\:/Android/Admin-Deal/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
         <entry key="..\:/Android/AdminDeal/app/src/main/res/drawable/header.xml" value="0.1155" />
         <entry key="..\:/Android/AdminDeal/app/src/main/res/drawable/header_shape.xml" value="0.1" />
         <entry key="..\:/Android/AdminDeal/app/src/main/res/drawable/login_shape.xml" value="0.1" />
